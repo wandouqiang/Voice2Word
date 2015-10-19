@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceToWord</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="pref_key_iat_show">iat_show</string>
+  <string name="text_begin">请开始说话…</string>
+  
+  
+   <!-- 合成 -->
+    <string-array name="voicer_cloud_entries">
+       	<item>小燕</item>
+		<item>小宇</item>
+		<item>小研</item>
+		<item>小琪</item>
+		<item>小峰</item>
+		<item>小梅</item>
+		<item>小莉</item>
+		<item>小蓉</item>
+		<item>小芸</item>
+		<item>小坤</item>
+		<item>小强 </item>
+		<item>小莹</item>
+		<item>小新</item>
+		<item>楠楠</item>
+		<item>老孙</item>
+    </string-array>
+    <string-array name="voicer_cloud_values">
+		<item>xiaoyan</item>
+		<item>xiaoyu</item>
+		<item>vixy</item>
+		<item>xiaoqi</item>
+		<item>vixf</item>
+		<item>xiaomei</item>
+		<item>xiaolin</item>
+		<item>xiaorong</item>
+		<item>xiaoqian</item>
+		<item>xiaokun</item>
+		<item>xiaoqiang</item>
+		<item>vixying</item>
+		<item>xiaoxin</item>
+		<item>nannan</item>
+		<item>vils</item>
+    </string-array>
+</resources>
